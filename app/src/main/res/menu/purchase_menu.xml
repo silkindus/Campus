@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="Options">
+        <menu>
+            <item
+                android:id="@+id/export_to_excel"
+                android:title="Export to excel" />
+            <item
+                android:id="@+id/manage_items"
+                android:title="Manage items" />
+
+            <item
+                android:id="@+id/show_receipts"
+                android:title="Show receipts" />
+
+            <item
+                android:id="@+id/show_stats"
+                android:title="Show stats" />
+        </menu>
+    </item>
+
+</menu>

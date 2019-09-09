@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1016036435341",
+    "firebase_url": "https://projektcampus-1bcd3.firebaseio.com",
+    "project_id": "projektcampus-1bcd3",
+    "storage_bucket": "projektcampus-1bcd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016036435341:android:2d1a615efca65784",
+        "android_client_info": {
+          "package_name": "com.example.campus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016036435341-96nhr5m7qkki7qsric9qab3tii58v8se.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAPcrHq0DRPpmrl7re1MqeuOv26gKPH98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016036435341-96nhr5m7qkki7qsric9qab3tii58v8se.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

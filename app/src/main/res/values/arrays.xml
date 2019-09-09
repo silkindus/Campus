@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="manage_items_menu">
+        <item>Remove</item>
+    </string-array>
+
+</resources>
